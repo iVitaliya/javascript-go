@@ -1,2 +1,2 @@
 # javascript-go
-Implements JavaScript functions in GO(lang)
+Implements JavaScript functionality in GO(lang)
